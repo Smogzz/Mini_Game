@@ -317,4 +317,5 @@
 /define:USE_SEARCH_ENGINE_API
 "Assets/C#/FollowPlayer.cs"
 "Assets/C#/PlayerControl.cs"
-"Assets/C#/SpawnManagr.cs"
+"Assets/C#/SpawnManager.cs"
+"Assets/C#/destroy.cs"
